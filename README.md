@@ -1,47 +1,26 @@
-<h1 align="center">Anurag Karmakar</h1>
+<h1 align="center">Hi 👋, I'm Anurag Karmakar</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Research Enthusiast
+AI Software Engineer • AI Full Stack Developer • Research Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnuragkGithub&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 M.E. CSE @ Thapar Institute of Engineering & Technology
-- 🎓 B.Tech IT @ CHRIST University
-- 🏢 Intern at STMicroelectronics
-- 🤖 Interested in AI, Full Stack Development & Cloud
-- 📚 Research Contributor with IEEE Publications
-- 💡 Solved 200+ Problems on LeetCode
+- 🎓 M.E CSE @ Thapar Institute of Engineering & Technology
+- 💻 Full Stack & AI Developer
+- 🏢 Intern @ STMicroelectronics
+- 📚 IEEE Research Contributor
+- 🧠 Solved 200+ Problems on LeetCode
 
 ---
 
-## 🚀 Experience
-
-### 🔹 Tata Elxsi — Cyber Security Developer & Researcher
-- Built fuzzing framework for malware/security analysis
-- Worked on vulnerability research and Hack The Box testing
-- Researched streaming platform security vulnerabilities
-
-### 🔹 Infelearn — Software Developer
-- Developed chatbot using jQuery & RiveScript
-- Created donation payment portal
-
-### 🔹 Inmovidu Technologies
-- Built student registration systems
-- Developed To-Do web applications
-
----
-
-## 🧠 Research & Publications
-
-- 📄 Cloud Computing Application: Research Challenges and Opportunity (IEEE)
-- 📄 Enhanced Automated Oxygen Level Controller using IoT (IEEE)
-
----
-
-## 🛠 Tech Stack
+## ⚡ Tech Stack
 
 <p align="left">
 
@@ -51,13 +30,29 @@ AI Engineer • Full Stack Developer • Research Enthusiast
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 📈 Stock Market Prediction
+Deep Learning LSTM based forecasting model
+
+### 💬 MERN Web Chat App
+Realtime full stack communication platform
+
+### 🎵 Music Genre Classification
+Machine learning based audio classification system
+
+### 📝 Online Exam System
+Java + MySQL examination portal
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -70,6 +65,17 @@ AI Engineer • Full Stack Developer • Research Enthusiast
 <img src="https://streak-stats.demolab.com?user=AnuragkGithub&theme=tokyonight&hide_border=true" />
 
 </p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 IEEE Research Publications
+- 🎯 IIT Guwahati EnCode 2025 Participant
+- 🎯 IIT Bombay Coding Hunt Participant
+- ☁️ NPTEL Java Certified
+- 🧑‍💼 Treasurer — Computer Society of India
+- 🐍 Python Programming Certification — Coursera
 
 ---
 
@@ -89,27 +95,6 @@ AI Engineer • Full Stack Developer • Research Enthusiast
 
 ---
 
-## 🏆 Achievements
+## 📈 Contribution Graph
 
-- 🥇 200+ LeetCode Problems Solved
-- 🎯 IIT Guwahati EnCode 2025 Participant
-- 🎯 IIT Bombay Coding Hunt Participant
-- 🧑‍💼 Treasurer — Computer Society of India
-- ☁️ NPTEL Java Certified
-- 🐍 Python Programming — Coursera
-
----
-
-## 📌 Featured Projects
-
-### 📈 Stock Market Prediction
-Deep Learning LSTM based stock forecasting model.
-
-### 💬 Web Chat App
-Full Stack MERN realtime communication application.
-
-### 🧪 Music Genre Classification
-Machine Learning based audio classification system.
-
-### 📝 Online Exam System
-Java + MySQL examination platform.
+[![Anurag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuragkGithub&theme=tokyo-night)](https://github.com/AnuragkGithub)
