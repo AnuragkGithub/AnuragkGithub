@@ -14,7 +14,7 @@ AI Software Engineer • AI Full Stack Developer • Research Enthusiast
 
 - 🎓 M.E CSE @ Thapar Institute of Engineering & Technology
 - 💻 Full Stack & AI Developer
-- 🏢 Intern @ STMicroelectronics
+- 🏢 Software Engineer @ STMicroelectronics
 - 📚 IEEE Research Contributor
 - 🧠 Solved 200+ Problems on LeetCode
 
