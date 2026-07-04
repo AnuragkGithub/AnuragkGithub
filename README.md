@@ -1,100 +1,198 @@
-<h1 align="center">Hi 👋, I'm Anurag Karmakar</h1>
+<div align="center">
 
-<h3 align="center">
-AI Software Engineer • AI Full Stack Developer • Research Enthusiast
-</h3>
+# 👋 Hi, I'm Anurag Karmakar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuragkGithub&label=Profile%20Views&color=0e75b6&style=flat" />
+### AI Software Engineer • Full Stack Developer • Machine Learning Engineer
+
+Building scalable AI applications, enterprise software, intelligent automation systems and modern web/mobile experiences.
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=AnuragkGithub&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/AnuragkGithub?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/AnuragkGithub?affiliations=OWNER&style=for-the-badge"/>
+
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 🎓 M.E CSE @ Thapar Institute of Engineering & Technology
-- 💻 Full Stack & AI Developer
-- 🏢 Software Engineer @ STMicroelectronics
+- 💼 Software Engineer @ **STMicroelectronics**
+- 🎓 M.E. Computer Science @ **Thapar Institute of Engineering & Technology**
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & LLMs
+- 🌐 Building scalable Full Stack Applications
 - 📚 IEEE Research Contributor
-- 🧠 Solved 200+ Problems on LeetCode
+- 💡 Interested in AI Agents, RAG Systems, Enterprise Automation & Cloud Technologies
 
 ---
 
-## ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<p align="left">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
+Java • Python • C++ • JavaScript • TypeScript • SQL
 
-</p>
+### Frontend
+
+React • Vue • Flutter • HTML • CSS • Tailwind
+
+### Backend
+
+Spring Boot • FastAPI • Node.js • NestJS • GraphQL
+
+### AI / ML
+
+TensorFlow • Scikit-Learn • CatBoost • FAISS • Gemini • OpenAI APIs
+
+### Databases
+
+MySQL • MongoDB • PostgreSQL • SQLite
+
+### Tools
+
+Git • Docker • Linux • Firebase • ServiceNow • Postman
 
 ---
 
-## 🚀 Featured Projects
+# 🌟 Featured Projects
 
-### 📈 Stock Market Prediction
-Deep Learning LSTM based forecasting model
+## 🌍 GeoPulse AI
 
-### 💬 MERN Web Chat App
-Realtime full stack communication platform
+AI-powered Urban Heat Intelligence Platform
 
-### 🎵 Music Genre Classification
-Machine learning based audio classification system
-
-### 📝 Online Exam System
-Java + MySQL examination portal
+- Interactive GIS Dashboard
+- Machine Learning Heat Analytics
+- Vue + TypeScript + FastAPI
 
 ---
 
-## 📊 GitHub Stats
+## 🥗 NutriMind AI
+
+AI Nutrition Assistant using RAG
+
+- Gemini API
+- FastAPI
+- Semantic Search
+
+---
+
+## 🔐 TLS Security Analyzer
+
+- React
+- FastAPI
+- TLS Security Scanner
+- Certificate Analysis
+
+---
+
+## 📱 SpendSync
+
+Flutter Expense Tracker
+
+- Material Design
+- Firebase
+- Authentication
+- Dashboard
+
+---
+
+## 📊 SHL AI Assessment Recommender
+
+Conversational AI Assessment Recommendation System
+
+- Sentence Transformers
+- FAISS
+- FastAPI
+- LLM Integration
+
+---
+
+# 💼 Professional Experience
+
+### Software Engineer
+
+**STMicroelectronics**
+
+- Enterprise Applications
+- Workflow Automation
+- ServiceNow Development
+- REST API Integration
+- Dashboard Engineering
+
+---
+
+# 🏅 Certifications
+
+- ServiceNow Certified System Administrator
+- NPTEL Java Programming
+- Python Programming (Coursera)
+- IEEE Research Publications
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnuragkGithub&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=AnuragkGithub&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 Achievements
+# 📈 Contribution Graph
 
-- 🥇 IEEE Research Publications
-- 🎯 IIT Guwahati EnCode 2025 Participant
-- 🎯 IIT Bombay Coding Hunt Participant
-- ☁️ NPTEL Java Certified
-- 🧑‍💼 Treasurer — Computer Society of India
-- 🐍 Python Programming Certification — Coursera
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragkGithub&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🎯 Currently Exploring
 
-<p align="left">
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- System Design
+- Cloud Native Applications
 
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+LinkedIn
+</a> •
+<a href="mailto:YOUR_EMAIL">
+Email
+</a> •
 <a href="https://github.com/AnuragkGithub">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+GitHub
 </a>
 
 </p>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-[![Anurag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuragkGithub&theme=tokyo-night)](https://github.com/AnuragkGithub)
+### 💡 *Code • Learn • Build • Innovate*
+
+</div>
