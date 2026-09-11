@@ -1,7 +1,9 @@
-
 <!-- ============================================================ -->
+
 <!--                    GITHUB PROFILE README                     -->
+
 <!--                    ANURAG KAMAKAR                            -->
+
 <!-- ============================================================ -->
 
 <!-- ========================== HERO ============================ -->
@@ -10,6 +12,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3D56,100:06B6D4&height=240&section=header&text=Anurag%20Karmakar&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Researcher&descAlignY=58&descSize=20"
+    alt="Anurag Karmakar"
   />
 </p>
 
@@ -27,21 +30,20 @@
 <!-- ========================== BADGES ========================== -->
 
 <p align="center">
-
   <img
     src="https://komarev.com/ghpvc/?username=AnuragkGithub&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"
     alt="Profile Views"
   />
 
-  <img
-    src="https://img.shields.io/github/followers/AnuragkGithub?label=FOLLOWERS&style=for-the-badge&color=0891B2"
-    alt="Followers"
-  />
+<img
+ src="https://img.shields.io/github/followers/AnuragkGithub?label=FOLLOWERS&style=for-the-badge&color=0891B2"
+ alt="Followers"
+/>
 
-  <img
-    src="https://img.shields.io/github/stars/AnuragkGithub?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=FACC15"
-    alt="Stars"
-  />
+<img
+ src="https://img.shields.io/github/stars/AnuragkGithub?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=FACC15"
+ alt="Stars"
+/>
 
 </p>
 
@@ -73,7 +75,9 @@
 ⚡ Enterprise AI
 📊 Machine Learning
 🌍 Geospatial AI
-</div> <p align="center">
+```
+
+<p align="center">
 
 🌱 Currently exploring <b>AI Agents • LLMs • RAG • Enterprise AI</b>
 
@@ -86,12 +90,79 @@
 ⚡ Building intelligent software that solves <b>real-world problems</b>
 
 </p>
-<!-- ==================== TECHNOLOGY STACK ====================== --> <h2 align="center">🛠️ Technology Arsenal</h2> <h3 align="center">👨‍💻 Programming Languages</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,dart&theme=dark"/> </p> <h3 align="center">🌐 Frontend Development</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,flutter&theme=dark"/> </p> <h3 align="center">⚙️ Backend Development</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,fastapi&theme=dark"/> </p> <h3 align="center">🤖 AI / Machine Learning</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> <img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG_Systems-2563EB?style=for-the-badge"/> </p> <h3 align="center">🗄️ Databases</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark"/> </p> <h3 align="center">☁️ Tools & Platforms</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/> </p> <p align="center"> <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge"/> </p>
-<!-- ==================== FEATURED PROJECTS ===================== --> <h2 align="center">🚀 Featured Projects</h2> <table> <tr> <td width="50%" valign="top"> <h3>🌍 GeoPulse AI</h3>
 
-AI-powered <b>Urban Heat Intelligence Platform</b>.
+</div>
 
-<br/><br/>
+---
+
+<!-- ==================== TECHNOLOGY STACK ====================== -->
+
+<h2 align="center">🛠️ Technology Arsenal</h2>
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,dart&theme=dark"/>
+</p>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,flutter&theme=dark"/>
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,nestjs,fastapi&theme=dark"/>
+</p>
+
+<h3 align="center">🤖 AI / Machine Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase&theme=dark"/>
+</p>
+
+<h3 align="center">☁️ Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ==================== FEATURED PROJECTS ===================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌍 GeoPulse AI
+
+AI-powered **Urban Heat Intelligence Platform**.
+
+<br/>
 
 🗺️ Geospatial Intelligence
 
@@ -99,19 +170,21 @@ AI-powered <b>Urban Heat Intelligence Platform</b>.
 
 📡 Environmental Monitoring
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`Vue.js` • `Leaflet` • `Python` • `AI/ML`
 
-<code>Vue.js</code> • <code>Leaflet</code> • <code>Python</code> • <code>AI/ML</code>
+</td>
 
-</td> <td width="50%" valign="top"> <h3>🤖 NutriMind AI</h3>
+<td width="50%" valign="top">
 
-AI-powered nutrition assistant using <b>LLMs and RAG</b>.
+### 🤖 NutriMind AI
 
-<br/><br/>
+AI-powered nutrition assistant using **LLMs and RAG**.
+
+<br/>
 
 🧠 Conversational AI
 
@@ -119,19 +192,25 @@ AI-powered nutrition assistant using <b>LLMs and RAG</b>.
 
 ⚡ Smart Recommendations
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`Python` • `FastAPI` • `Gemini` • `RAG`
 
-<code>Python</code> • <code>FastAPI</code> • <code>Gemini</code> • <code>RAG</code>
+</td>
 
-</td> </tr> <tr> <td width="50%" valign="top"> <h3>📱 SpendSync</h3>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📱 SpendSync
 
 Smart expense tracking application.
 
-<br/><br/>
+<br/>
 
 💰 Expense Tracking
 
@@ -139,19 +218,21 @@ Smart expense tracking application.
 
 🔐 Secure Authentication
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`Flutter` • `Spring Boot` • `MySQL`
 
-<code>Flutter</code> • <code>Spring Boot</code> • <code>MySQL</code>
+</td>
 
-</td> <td width="50%" valign="top"> <h3>⛏️ ROGII Wellbore Prediction</h3>
+<td width="50%" valign="top">
+
+### ⛏️ ROGII Wellbore Prediction
 
 Machine Learning system for geological prediction.
 
-<br/><br/>
+<br/>
 
 📈 Predictive Analytics
 
@@ -159,19 +240,25 @@ Machine Learning system for geological prediction.
 
 📊 Geological Intelligence
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`Python` • `CatBoost` • `Machine Learning`
 
-<code>Python</code> • <code>CatBoost</code> • <code>Machine Learning</code>
+</td>
 
-</td> </tr> <tr> <td width="50%" valign="top"> <h3>🤖 SHL AI Recommender</h3>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 SHL AI Recommender
 
 Conversational AI recommendation engine.
 
-<br/><br/>
+<br/>
 
 🔍 Semantic Search
 
@@ -179,19 +266,21 @@ Conversational AI recommendation engine.
 
 📚 Vector Retrieval
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`FastAPI` • `FAISS` • `LLM`
 
-<code>FastAPI</code> • <code>FAISS</code> • <code>LLM</code>
+</td>
 
-</td> <td width="50%" valign="top"> <h3>🔐 TLS Security Analyzer</h3>
+<td width="50%" valign="top">
+
+### 🔐 TLS Security Analyzer
 
 Security scanner and certificate analysis platform.
 
-<br/><br/>
+<br/>
 
 🔒 Security Analysis
 
@@ -199,48 +288,131 @@ Security scanner and certificate analysis platform.
 
 🛡️ TLS Inspection
 
-<br/><br/>
+<br/>
 
-<b>Tech Stack</b>
+**Tech Stack**
 
-<br/><br/>
+`React` • `FastAPI`
 
-<code>React</code> • <code>FastAPI</code>
+</td>
 
-</td> </tr> </table>
-<!-- ===================== GITHUB ANALYTICS ===================== --> <h2 align="center">📊 GitHub Analytics</h2> <p align="center">
+</tr>
+</table>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+---
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=AnuragkGithub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+alt="GitHub Stats"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragkGithub&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"
+/>
 
 </p>
-<!-- =================== CONTRIBUTION STREAK ==================== --> <h2 align="center">🔥 Contribution Streak</h2> <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=AnuragkGithub&theme=tokyonight&hide_border=true" />
+---
 
+<!-- =================== CONTRIBUTION STREAK ==================== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AnuragkGithub&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-<!-- ====================== ACTIVITY GRAPH ====================== --> <h2 align="center">📈 Coding Activity</h2> <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragkGithub&theme=tokyo-night&hide_border=true&area=true" />
+---
 
+<!-- ====================== ACTIVITY GRAPH ====================== -->
+
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragkGithub&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
-<!-- ======================= TROPHIES =========================== --> <h2 align="center">🏆 GitHub Trophies</h2> <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnuragkGithub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+---
 
+<!-- ======================= TROPHIES =========================== -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=AnuragkGithub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
-<!-- ======================== SNAKE ============================= --> <h2 align="center">🐍 Contribution Snake</h2> <p align="center"> <picture>
 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake-dark.svg" />
+---
 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg" />
+<!-- ======================== SNAKE ============================= -->
 
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg" />
+<h2 align="center">🐍 Contribution Snake</h2>
 
-</picture> </p>
-<!-- =================== CURRENTLY EXPLORING ==================== --> <h2 align="center">🧠 Currently Exploring</h2> <p align="center"> <img src="https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge"/> <img src="https://img.shields.io/badge/Large_Language_Models-1E3A8A?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG_Systems-2563EB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Geospatial_AI-0891B2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud_Native-0369A1?style=for-the-badge"/> <img src="https://img.shields.io/badge/Enterprise_AI-7C3AED?style=for-the-badge"/> </p>
-<!-- ================= PROFESSIONAL JOURNEY ===================== --> <h2 align="center">🏢 Professional Journey</h2> <div align="center">
+<p align="center">
+  <picture>
+
+```
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg"
+/>
+```
+
+  </picture>
+</p>
+
+---
+
+<!-- =================== CURRENTLY EXPLORING ==================== -->
+
+<h2 align="center">🧠 Currently Exploring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Geospatial%20AI-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Native-0369A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Enterprise%20AI-7C3AED?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ================= PROFESSIONAL JOURNEY ===================== -->
+
+<h2 align="center">🏢 Professional Journey</h2>
+
+<div align="center">
+
+```text
 ┌──────────────────────────────────────────────┐
 │                                              │
 │            👨‍💻 SOFTWARE ENGINEER             │
@@ -252,8 +424,17 @@ Security scanner and certificate analysis platform.
 │     ⚡ Workflow Automation                   │
 │                                              │
 └──────────────────────────────────────────────┘
+```
+
 </div>
-<!-- ======================= EDUCATION ========================== --> <h2 align="center">🎓 Education</h2> <p align="center">
+
+---
+
+<!-- ======================= EDUCATION ========================== -->
+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center">
 
 🎓 <b>Master of Engineering — Computer Science & Engineering</b>
 
@@ -270,7 +451,14 @@ Security scanner and certificate analysis platform.
 🏛️ CHRIST (Deemed to be University)
 
 </p>
-<!-- ====================== ACHIEVEMENTS ======================== --> <h2 align="center">🏅 Achievements</h2> <p align="center">
+
+---
+
+<!-- ====================== ACHIEVEMENTS ======================== -->
+
+<h2 align="center">🏅 Achievements</h2>
+
+<p align="center">
 
 🥇 <b>IEEE Research Publications</b>
 
@@ -299,59 +487,45 @@ Security scanner and certificate analysis platform.
 🧑‍💼 <b>Former Treasurer — Computer Society of India</b>
 
 </p>
-<!-- ======================== CONNECT =========================== --> <h2 align="center">🌐 Connect With Me</h2> <p align="center"> <a href="https://github.com/AnuragkGithub"> <img src="https://skillicons.dev/icons?i=github"/> </a>
 
-   
+---
 
-<a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+<!-- ======================== CONNECT =========================== -->
 
-   
+<h2 align="center">🌐 Connect With Me</h2>
 
-<a href="YOUR_PORTFOLIO_URL"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
+<p align="center">
 
-   
+<a href="https://github.com/AnuragkGithub">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
 
-<a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<!-- ========================= FOOTER =========================== --> <h3 align="center">
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+</a>
 
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+<!-- ========================= FOOTER =========================== -->
+
+<h3 align="center">
 ⚡ Building Intelligent Software for Real-World Problems ⚡
+</h3>
 
-</h3> <p align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3D56,100:06B6D4&height=120&section=footer" /> </p> ```
-Snake workflow — separate file
-
-Create this file:
-
-.github/workflows/snake.yml
-
-Paste only this into that file:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AnuragkGithub
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3D56,100:06B6D4&height=120&section=footer"
+    alt="Footer"
+  />
+</p>
