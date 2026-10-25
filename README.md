@@ -279,6 +279,18 @@ The following cards retrieve public GitHub statistics through a third-party serv
 
 ---
 
+---
+
+# 🐍 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
+</p>
+
 # 🧠 Currently Exploring
 
 - 🤖 AI agents and tool-using systems
