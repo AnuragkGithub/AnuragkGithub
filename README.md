@@ -1,11 +1,4 @@
-################################################################
-# FILE 1 of 2  ->  save as:  README.md   (repo root)
-################################################################
-
-<!-- ========================================================= -->
-<!--              ANURAG KARMAKAR - GITHUB PROFILE             -->
-<!--  Needs workflows: snake.yml + profile-3d.yml (run once)   -->
-<!-- ========================================================= -->
+<!-- Anurag Karmakar - GitHub Profile README -->
 
 <p align="center">
   <img
@@ -26,18 +19,6 @@
   <a href="https://github.com/AnuragkGithub?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="https://github.com/AnuragkGithub?tab=pullrequests"><img src="https://img.shields.io/badge/Pull%20Requests-View-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests" /></a>
   <img src="https://komarev.com/ghpvc/?username=AnuragkGithub&label=Profile%20Views&color=0891B2&style=for-the-badge" alt="Profile views" />
-</p>
-
----
-
-## 🌆 My Contribution City
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-  </picture>
 </p>
 
 ---
@@ -122,11 +103,7 @@ I'm a **Software Developer and AI enthusiast** building practical software syste
 ## 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/AnuragkGithub/AnuragkGithub/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%">
 </p>
 
 ---
@@ -152,56 +129,3 @@ I'm a **Software Developer and AI enthusiast** building practical software syste
   <br/>
   <i>Building, testing, learning, and improving, one repository at a time.</i>
 </p>
-
-
-################################################################
-# FILE 2 of 2  ->  save as:  .github/workflows/profile.yml
-################################################################
-
-name: Update Profile (Snake + 3D Contrib)
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-jobs:
-  snake:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  profile-3d:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit generated SVGs
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A .
-          git commit -m "chore: update 3D contribution graph" || exit 0
-          git push
